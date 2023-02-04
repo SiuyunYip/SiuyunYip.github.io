@@ -4,10 +4,10 @@ SEOTitle: Siuyun's Blog
 header-img: img/yama.jpg
 email: yzyyezhaoyuan@gmail.com
 description: "Those with a lack of purpose fill the void with pleasure"
-keyword: "Siuyun's blog, Distributed system, backend, Java, Go"
+keyword: "siuyun's blog, Distributed system, backend, Java, Go"
 url: "http://siuyunyip.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/SiuyunYip/SiuyunYip.github.io.git" # you code repository
+github_repo: "https://github.com/siuyunyip/siuyunyip.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/corgi_avatar.jpeg      # use absolute URL, seeing it's used
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+github_username:    siuyunyip
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ kramdown:
 #  enable: true    #是否开启Gitalk评论
 #  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
 #  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#  repo: SiuyunYip.github.io    #仓库名称
-#  owner: SiuyunYip    #github用户名
-#  admin: SiuyunYip
+#  repo: siuyunYip.github.io    #仓库名称
+#  owner: siuyunYip    #github用户名
+#  admin: siuyunYip
 #  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
