@@ -1,7 +1,7 @@
 # Site settings
-title: Blog
-SEOTitle: Siuyun | BY Blog
-header-img: img/yama.jpeg
+title: 
+SEOTitle: Siuyun's Blog
+header-img: img/yama.jpg
 email: yzyyezhaoyuan@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Siuyun's blog, Distributed system, backend, Java, Go"
@@ -85,7 +85,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
